@@ -1,0 +1,26 @@
+{
+  "guid": "4f2441e1-1bdb-4afa-804c-4d2f51da5604",
+  "serverTypeGuid": "c45acfcf-b4a1-4733-aab0-f78e1091ae16",
+  "name": "Test",
+  "description": "",
+  "creationDate": "2025-08-15T03:27:56.1938763-05:00",
+  "autostart": false,
+  "forceSaveOnStop": true,
+  "stopPrevention": "None",
+  "startupMethode": "BatFile",
+  "allocatedMemory": 10240,
+  "allocatedMemorySuffix": "GB",
+  "startupLine": "java --enable-native-access=ALL-UNNAMED -Xms256M -Xmx[RAM]M -jar fabric-server-launch.jar",
+  "startupBatFilename": "bat.bat",
+  "serverFileChecksum": "2349d9a8f0d4be2c40e7692890ef46a4b07015e7955b075460d02793be7fbbe7",
+  "serverFileVersion": "1.21.8",
+  "javaPathOverride": "",
+  "tasks": {
+    "scheduledTasks": []
+  },
+  "backups": {
+    "backupTemplates": [],
+    "backupHistory": []
+  },
+  "subServers": []
+}

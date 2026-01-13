@@ -1,0 +1,1 @@
+java --enable-native-access=ALL-UNNAMED -Xms256M -Xmx5G -jar fabric-server-launch.jar nogui
